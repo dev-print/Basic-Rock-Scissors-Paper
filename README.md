@@ -14,7 +14,7 @@ python main.py
 - Now it shall be Opened.
 
 ## Mac OS
-
+I dont know😳
 ## Linux
 - Firstly download python. You got many options like using an package manager:
 ```bash
